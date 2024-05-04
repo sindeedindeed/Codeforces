@@ -15,6 +15,5 @@ int main(){
     new_st+="."+to_string(st[i]);
   
   cout<<new_st;    
-  cout<<
   return 0;
 }
